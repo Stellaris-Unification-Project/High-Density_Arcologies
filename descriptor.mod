@@ -1,0 +1,15 @@
+version="1.0"
+tags={
+	"Balance"
+	"Buildings"
+	"Economy"
+	"Diplomacy"
+	"Gameplay"
+	"Overhaul"
+	"Species"
+	"Technologies"
+	"Utilities"
+}
+name="High-Density Arcologies"
+supported_version="3.*"
+remote_file_id="2114321717"
